@@ -1,0 +1,4 @@
+node_modules
+public/dist/app.min.js
+public/dist/app.min.js.map
+public/dist/style.min.css

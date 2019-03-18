@@ -1,0 +1,9 @@
+/**
+.*-is-hidden
+.*-is-visible
+.*-is-selected
+.*-is-active
+*/
+.content-box-is-hidden .content-box-text {
+	display: none;
+}

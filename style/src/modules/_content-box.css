@@ -1,0 +1,23 @@
+/** Content box */
+
+.content-box {
+	background: #ddd;
+	cursor: pointer;
+	padding: 10px;
+}
+
+/* #region Element */
+
+.content-box__title {
+	color: #f00;
+}
+
+/* #endregion */
+
+/* #region Modifier */
+
+.content-box__title--underline {
+	text-decoration: underline;
+}
+
+/* #endregion */
